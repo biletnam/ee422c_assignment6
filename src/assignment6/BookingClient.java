@@ -1,6 +1,14 @@
+/* BookingClient.java
+ * EE422C Project 6 submission by
+ * Replace <...> with your actual data.
+ * Brian Wilmarth
+ * bw24274
+ * 15455
+ * Spring 2018
+ */
+
 package assignment6;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.List;
 
